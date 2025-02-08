@@ -115,10 +115,9 @@ def alarm():
     exit()
 
 def yeniden_baslat():
-    print("\nOyunu yeniden başlatmak isterseniz 'e' yazın.")
-    print("Çıkmak isterseniz 'h' yazın.")
-    cevap = input("> ").lower()
-    if cevap == "e":
+    print("Oyunu yeniden başlatmak isterseniz 'e' yazın.")
+    cevap = input("Çıkmak isterseniz 'h' yazın.").lower[]
+    if cevap = "e":
         giriş()
     else:
         print("Oyunu sonlandırıyorsunuz. Görüşmek üzere!")

@@ -5,7 +5,6 @@ def sifre_olustur(uzunluk, sayi_iste, sembol_iste):
   kucuk_harfler = "abcdefghijklmnopqrstuvwxyz"
   buyuk_harfler = kucuk_harfler.upper()
   rakamlar = "0123456789"
-  semboller = "!@#$%^&*"
 
   karakterler = kucuk_harfler + buyuk_harfler
 
